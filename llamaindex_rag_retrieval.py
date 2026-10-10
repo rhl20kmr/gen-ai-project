@@ -60,4 +60,3 @@ while True:
     response = query_engine.query(input_query)
     print("Response from query engine:", response)
 
-
